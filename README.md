@@ -2,7 +2,7 @@ Any Siebel project has something like this. But i hope it could be useful for so
 
 #########################################################################################
 
-This is simple kit for start and stop Siebel servises for Windows OS.
+This is simple kit for start and stop Siebel services for Windows OS.
 
 1)	Easy to configure for any number of servers;
 2)	Checking for freezed processes;
